@@ -1,6 +1,18 @@
 # Reddit Clone Frontend
 
-Welcome to the frontend repository of our Reddit Clone, developed by Team4-DevWave! This project aims to replicate the core functionalities of Reddit, providing users with a platform to create posts, comment, upvote, and engage in discussions on various topics. The frontend is built using **React**, a popular JavaScript library for building user interfaces, ensuring a smooth and responsive user experience.
+Welcome to the frontend repository of our Reddit Clone, developed as part of the Software Engineering course at Cairo University Faculty of Engineering! This project is a comprehensive endeavor by a large team of 18 students, aimed at replicating the core functionalities of Reddit. Our objective is to provide users with a platform to create posts, comment, upvote, and engage in discussions on various topics. The frontend is built using React, ensuring a smooth and responsive user experience.
+
+
+## Team Structure
+Our team is composed of dedicated students divided into specialized sub-teams to handle different aspects of the project:
+
+Frontend Team (6 students): Focused on building the user interface and ensuring a seamless user experience.
+Backend Team (5 students): Responsible for developing the server-side logic, database management, and API integration.
+Testing Team (2 students): Ensured the reliability and quality of the application through rigorous testing procedures.
+Cross-Platform Team (5 students): Worked on ensuring the application’s compatibility across various platforms and devices.
+DevOps Team (1 student): Managed deployment, continuous integration, and infrastructure to support the development process.
+
+## [Video Demo](https://drive.google.com/drive/folders/1r-dCu6qV5LCiAkhs9d4zvpadZ2SlIx8b)
 
 ## Key Features
 
