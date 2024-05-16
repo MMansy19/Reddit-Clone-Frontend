@@ -12,7 +12,8 @@ Testing Team (2 students): Ensured the reliability and quality of the applicatio
 Cross-Platform Team (5 students): Worked on ensuring the application’s compatibility across various platforms and devices.
 DevOps Team (1 student): Managed deployment, continuous integration, and infrastructure to support the development process.
 
-## [Video Demo](https://drive.google.com/drive/folders/1r-dCu6qV5LCiAkhs9d4zvpadZ2SlIx8b)
+### [Live Demo](www.threadit.tech)
+### [Video Demo](https://drive.google.com/drive/folders/1r-dCu6qV5LCiAkhs9d4zvpadZ2SlIx8b)
 
 ## Key Features
 
